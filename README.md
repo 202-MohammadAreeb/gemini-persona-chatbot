@@ -29,3 +29,5 @@ An intelligent, persona-aware chatbot powered by Google's Gemini Pro and Gradio.
 git clone https://github.com/202-MohammadAreeb/gemini-persona-chatbot.git
 cd gemini-persona-chatbot
 pip install -r requirements.txt
+
+#######################################################

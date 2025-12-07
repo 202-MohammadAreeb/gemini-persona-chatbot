@@ -30,4 +30,4 @@ git clone https://github.com/202-MohammadAreeb/gemini-persona-chatbot.git
 cd gemini-persona-chatbot
 pip install -r requirements.txt
 
-#######################################################
+########################################################
